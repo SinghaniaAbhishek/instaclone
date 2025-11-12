@@ -99,10 +99,6 @@ To customize the profile information:
 
 This is a learning project and is available for educational purposes.
 
-## 👤 Author
-
-**Abhishek Singhania**
-- Username: @_.abhishek._013
 
 ---
 
